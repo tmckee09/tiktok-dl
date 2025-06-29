@@ -1,7 +1,7 @@
 # tiktok-dl
 __TikTok Downloader__
 
-Welcome to the TikTok Downloader project! Whether you're a seasoned dev or just here to vibe code on weekends — you're in the right place. 
+Welcome to the TikTok Downloader project. Whether you're a seasoned dev or just here to vibe code on weekends - you're in the right place. 
 Here's how to get started:
 
 __🔒 Permissions & Rules__
