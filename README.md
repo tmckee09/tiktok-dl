@@ -11,6 +11,7 @@ __🔒 Permissions & Rules__
 - (.env files store environment variables - usually API Keys, tokens, or config values your app needs to work, but that shouldn’t be exposed publicly)
 
 __🚫 Never Do This:__
+
 "const apiKey = "my-secret-api-key";"
 If you push secrets to GitHub:
 
