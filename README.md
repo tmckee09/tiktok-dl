@@ -13,6 +13,7 @@ __🔒 Permissions & Rules__
 __🚫 Never Do This:__
 
 "const apiKey = "my-secret-api-key";"
+
 If you push secrets to GitHub:
 
 - They're visible to the public if the repo is public
