@@ -4,20 +4,20 @@ TT Downloader
 Welcome to the TikTok Downloader project! Whether you're a seasoned dev or just here to vibe code on weekends — you're in the right place. 
 Here's how to get started:
 
-🔒 Permissions & Rules
+__🔒 Permissions & Rules__
 - Repo is under the MIT License (See GitHub -> Repository -> MIT License)
 - Only approved collaborators can push directly to main
 - Keep .env keys private — don’t commit them!
 - (.env files store environment variables - usually API Keys, tokens, or config values your app needs to work, but that shouldn’t be exposed publicly)
 
-🚫 Never Do This:
+__🚫 Never Do This:__
 "const apiKey = "my-secret-api-key";"
 If you push secrets to GitHub:
 
 - They're visible to the public if the repo is public
 - Bots can steal and misuse them
 
-  Step 1: Download Git and Node.js
+  __Step 1: Download Git and Node.js__
 -- Open Terminal and Copy
 
 winget install --id Git.Git -e
@@ -29,7 +29,7 @@ winget install --id OpenJS.NodeJS.LTS -e
 
 -- Paste in Terminal -> Confirm on prompt
 
-After this, you're ready to clone the repository to your machine to edit it. Copy and paste this in terminal:
+<u>After this, you're ready to clone the repository to your machine to edit it. Copy and paste this in terminal:</u>
 
 git clone https://github.com/tmckee09/tiktok-dl.git
 
@@ -49,7 +49,7 @@ npm install next@latest react@latest react-dom@latest
 
 //any other error Copy/Paste it into ChatGPT and it will tell you how to resolve it
 
-- Need to add breadth to the page now
+- __Need to add breadth to the page now__
 
   ~~- An area to Paste a TikTok link~~ - expand on this
   - Extend the black top portion to the bottom of the page, then white on the bottom for separation of the top half where the downloader is and the bottom half where the information and how it works goes
@@ -58,7 +58,7 @@ npm install next@latest react@latest react-dom@latest
   - SEO wording within the pages to attract lurking Google searchers
   - Pages, Pages, Pages - as many relatable pages about downloading TikTok videos, etc as we can create to drive the search optimization
  
-  Apps to Access
+  __Apps to Access__
  - Github Repository (Need to be added as contributor to see this)
  - Vercel (Website Hosting - Push final code to this FROM GitHub - when you 'commit' on the project it will automatically upload this to the Live site.)
  - Node.js
