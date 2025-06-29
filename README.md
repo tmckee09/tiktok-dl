@@ -39,8 +39,21 @@ npm install
 
 npm run dev
 
-(This will work once we add the starter code to the project, right now it is just a README.txt and a couple other files.)
-- Need to add package.json inside tiktok-dl repository
+(After, it should say 'Starting' and then you can go to "http://localhost:3000" in your browser to view what changes you are making to the code in real-time before we push it to Vercel to be shown publicly. Vercel is the host - PM on Discord for access)
+- Need to add breadth to the page now
+  - An area to Paste a TikTok link
+  - Separation of the top half where the downloader is and the bottom half where the information and how it works goes
+  - Black Colors // TikTok themed as much as we can
+  - SEO wording within the pages to attract lurking Google searchers
+  - Pages, Pages, Pages - as many relatable pages about downloading TikTok videos, etc as we can create to drive the search optimization
+ 
+  Apps to Access
+ - Github Repository (Need to be added as contributor to see this)
+ - Vercel (Website Hosting - Push final code to this FROM GitHub - when you 'commit' on the project it will automatically upload this to the Live site.)
+ - Node.js
+ - Discord
+ - ChatGPT Plus
+ - VisualCode for better interface while editing locally
 
 
 
