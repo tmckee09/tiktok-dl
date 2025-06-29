@@ -29,7 +29,7 @@ winget install --id OpenJS.NodeJS.LTS -e
 
 Paste in Terminal -> Confirm on prompt
 
-After this, you're ready to clone the repository to your machine to edit it. Copy and paste this:
+After this, you're ready to clone the repository to your machine to edit it. Copy and paste this in terminal:
 
 git clone https://github.com/tmckee09/tiktok-dl.git
 cd tiktok-dl
