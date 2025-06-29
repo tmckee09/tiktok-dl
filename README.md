@@ -20,16 +20,17 @@ If you push API Keys to GitHub:
 - Bots can steal and misuse them
 
   __Step 1: Download Git and Node.js__
--- Open Terminal and Copy
+  
+__-- Open Terminal and Copy__
 
 winget install --id Git.Git -e
 
---Paste in Terminal -> Type 'Y' to Confirm
+__--Paste in Terminal -> Type 'Y' to Confirm__
 --Then Copy: 
 
 winget install --id OpenJS.NodeJS.LTS -e
 
--- Paste in Terminal -> Confirm on prompt
+__-- Paste in Terminal -> Confirm on prompt__
 
 __After this, you're ready to clone the repository to your machine to edit it. Copy and paste this in terminal:__
 
