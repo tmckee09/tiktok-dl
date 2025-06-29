@@ -18,16 +18,16 @@ If you push secrets to GitHub:
 - Bots can steal and misuse them
 
   Step 1: Download Git and Node.js
-Open Terminal and Copy
+-- Open Terminal and Copy
 
 winget install --id Git.Git -e
 
--Paste in Terminal -> Type 'Y' to Confirm
--Then Copy: 
+--Paste in Terminal -> Type 'Y' to Confirm
+--Then Copy: 
 
 winget install --id OpenJS.NodeJS.LTS -e
 
-- Paste in Terminal -> Confirm on prompt
+-- Paste in Terminal -> Confirm on prompt
 
 After this, you're ready to clone the repository to your machine to edit it. Copy and paste this in terminal:
 
