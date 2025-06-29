@@ -43,7 +43,7 @@ npm install
 
 npm run dev
 
-__(After, it should say 'Starting' and then you can go to "http://localhost:3000" in your browser to view what changes you are making to the code in real-time before we push it to Vercel to be shown publicly. Vercel is the host - PM on Discord for access)__
+__(After, it should say 'Starting' and then you can go to "http://localhost:3000" in your browser to view the site as it's under construction and view changes you are making to the code in real-time before we push it to Vercel to be shown publicly. Vercel is the host - PM on Discord for access)__
 
 __// if you get a lucide-react error when running the website locally, just copy/paste this in terminal__ 
 
