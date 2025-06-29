@@ -32,8 +32,11 @@ Paste in Terminal -> Confirm on prompt
 After this, you're ready to clone the repository to your machine to edit it. Copy and paste this in terminal:
 
 git clone https://github.com/tmckee09/tiktok-dl.git
+
 cd tiktok-dl
+
 npm install
+
 npm run dev
 
 (This will work once we add the starter code to the project, right now it is just a README.txt and a couple other files.)
