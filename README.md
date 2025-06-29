@@ -26,6 +26,7 @@ __-- Open Terminal and Copy__
 winget install --id Git.Git -e
 
 __--Paste in Terminal -> Type 'Y' to Confirm__
+
 --Then Copy: 
 
 winget install --id OpenJS.NodeJS.LTS -e
