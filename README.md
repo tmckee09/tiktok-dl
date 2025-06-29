@@ -56,6 +56,7 @@ __//any other error Copy/Paste it into ChatGPT and it will tell you how to resol
 - __Need to add breadth to the page now__
 
   ~~- An area to Paste a TikTok link~~ - expand on this
+  - Add an API from RapidAPI for downloading Tiktoks from the link
   - Extend the black top portion to the bottom of the page, then white on the bottom for separation of the top half where the downloader is and the bottom half where the information and how it works goes
   - Black Colors // TikTok themed as much as possible
   - Modern/Sleek design
