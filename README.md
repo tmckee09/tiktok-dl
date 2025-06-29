@@ -44,6 +44,9 @@ npm run dev
 // if you get a lucide-react error when running the website locally, just copy/paste this in terminal 
 
 npm install lucide-react
+npm install next@latest react@latest react-dom@latest
+
+//any other error Copy/Paste it into ChatGPT and it will tell you how to resolve it
 
 - Need to add breadth to the page now
   - An area to Paste a TikTok link
