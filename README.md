@@ -1,5 +1,5 @@
 # tiktok-dl
-TT Downloader
+__TikTok Downloader__
 
 Welcome to the TikTok Downloader project! Whether you're a seasoned dev or just here to vibe code on weekends — you're in the right place. 
 Here's how to get started:
@@ -29,7 +29,7 @@ winget install --id OpenJS.NodeJS.LTS -e
 
 -- Paste in Terminal -> Confirm on prompt
 
-<u>After this, you're ready to clone the repository to your machine to edit it. Copy and paste this in terminal:</u>
+__After this, you're ready to clone the repository to your machine to edit it. Copy and paste this in terminal:__
 
 git clone https://github.com/tmckee09/tiktok-dl.git
 
@@ -39,15 +39,15 @@ npm install
 
 npm run dev
 
-(After, it should say 'Starting' and then you can go to "http://localhost:3000" in your browser to view what changes you are making to the code in real-time before we push it to Vercel to be shown publicly. Vercel is the host - PM on Discord for access)
+__(After, it should say 'Starting' and then you can go to "http://localhost:3000" in your browser to view what changes you are making to the code in real-time before we push it to Vercel to be shown publicly. Vercel is the host - PM on Discord for access)__
 
-// if you get a lucide-react error when running the website locally, just copy/paste this in terminal 
+__// if you get a lucide-react error when running the website locally, just copy/paste this in terminal__ 
 
 npm install lucide-react
 
 npm install next@latest react@latest react-dom@latest
 
-//any other error Copy/Paste it into ChatGPT and it will tell you how to resolve it
+__//any other error Copy/Paste it into ChatGPT and it will tell you how to resolve it__
 
 - __Need to add breadth to the page now__
 
