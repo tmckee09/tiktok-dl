@@ -14,7 +14,7 @@ __🚫 Never Do This:__
 
 "const apiKey = "my-secret-api-key";"
 
-If you push secrets to GitHub:
+If you push API Keys to GitHub:
 
 - They're visible to the public if the repo is public
 - Bots can steal and misuse them
